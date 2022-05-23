@@ -1,0 +1,17 @@
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.EF.deps.json
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.EF.runtimeconfig.json
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.EF.dll
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.EF.pdb
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.AssemblyInfo.cs
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.dll
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\refint\MoviesApiRepositoryUOW.EF.dll
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.pdb
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.genruntimeconfig.cache
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\ref\MoviesApiRepositoryUOW.EF.dll
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.Core.dll
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\bin\Debug\net6.0\MoviesApiRepositoryUOW.Core.pdb
+C:\Users\Kimo Store\source\repos\MoviesApiRepositoryUOW\MoviesApiRepositoryUOW.EF\obj\Debug\net6.0\MoviesApiRepositoryUOW.EF.csproj.CopyComplete
